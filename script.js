@@ -19,7 +19,7 @@ else {
 }
 
 console.log(answer);
-alert(answer);
+alert('The result is =' + answer);
 
 
 
